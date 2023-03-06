@@ -3,7 +3,7 @@ main:
   - title: "CV"
     url: /CV/
   - title: "About"
-    url: https://nilesh-agarwal.github.io/ABOUT
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
