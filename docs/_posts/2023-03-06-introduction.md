@@ -15,4 +15,6 @@ tags:
 
 This is my introduction
 
-![this is me](/images/logo/self.jpeg)
+![this is me][def]
+
+[def]: /images/logo/self.jpeg
