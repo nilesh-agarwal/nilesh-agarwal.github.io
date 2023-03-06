@@ -9,12 +9,11 @@ tags:
   - lists
   - markup
 ---
+![this is me](/images/logo/self.jpeg)
+
 
 # Hi This is Nilesh 
 ## Welcome!!
 
 This is my introduction
 
-![this is me][def]
-
-[def]: /images/logo/self.jpeg
