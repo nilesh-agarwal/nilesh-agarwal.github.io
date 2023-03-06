@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: https://nilesh-agarwal.github.io/CV
+    url: /CV/
   - title: "About"
     url: https://nilesh-agarwal.github.io/ABOUT
   # - title: "Sample Posts"
