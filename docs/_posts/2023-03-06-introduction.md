@@ -15,4 +15,4 @@ tags:
 
 This is my introduction
 
-![this is me](images/logo/self.jpeg)
+![this is me](/images/logo/self.jpeg)
